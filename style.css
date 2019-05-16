@@ -1,0 +1,23 @@
+body {
+	background-color: #0f348e;
+	font-family: 'Courier New', Courier, monospace; 
+}
+
+canvas {
+	border: 1px solid #fff;
+}
+
+h1 {
+	text-align: center;
+}
+
+.white {
+	color: #fff;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
